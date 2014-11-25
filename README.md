@@ -1,4 +1,4 @@
 DCHSVoteRevision
 ================
 
-Revising DCHS Vote for mobile version and enhancing it. 
+Enhancing DCHS Vote on the web, adding a mobile-friendly version
